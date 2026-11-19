@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tailles_libelles">
+        <item>Petite (14 sp)</item>
+        <item>Moyenne (16 sp)</item>
+        <item>Grande (20 sp)</item>
+    </string-array>
+    <string-array name="tailles_valeurs">
+        <item>14</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+
+    <!-- Teintes foncées : contraste ≥ 4.5:1 sur le fond blanc des cartes -->
+    <string-array name="couleurs_libelles">
+        <item>Noir</item>
+        <item>Bleu</item>
+        <item>Vert</item>
+        <item>Rouge</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="couleurs_valeurs">
+        <item>#000000</item>
+        <item>#1565C0</item>
+        <item>#2E7D32</item>
+        <item>#C62828</item>
+        <item>#6A1B9A</item>
+    </string-array>
+
+    <string-array name="tri_libelles">
+        <item>Favoris d\'abord, puis nom</item>
+        <item>Nom puis prénom</item>
+        <item>Prénom puis nom</item>
+    </string-array>
+    <string-array name="tri_valeurs">
+        <item>favoris</item>
+        <item>nom</item>
+        <item>prenom</item>
+    </string-array>
+</resources>
